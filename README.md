@@ -6,7 +6,7 @@
 Este projeto é um conversor dinâmico que permite realizar conversões entre múltiplas moedas (Real, Dólar e Euro) de forma bidirecional. O foco principal foi o domínio da manipulação do DOM e a criação de uma lógica de conversão universal.
 
 ## 🔗 Acesse o Projeto
-🚀 [Clique aqui para testar o conversor ao vivo!](https://leonelsous4.github.io/Conversor-de-Moedas/)
+🚀 [Clique aqui para testar o conversor ao vivo!](https://leonelsous4.github.io/Projeto-Convert/)
 
 ---
 
