@@ -34,11 +34,11 @@ Para testar o projeto na sua máquina, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/LeonelSous4/Conversor-de-Moedas.git](https://github.com/LeonelSous4/Conversor-de-Moedas.git)
+   git clone https://github.com/LeonelSous4/Projeto-Convert
 
-
-   ✍️ Autor
+✍️ Autor
 
 - **Desenvolvido por: Leonel Sousa.**
 - [Conecte-se comigo no LinkedIn!
 ](https://www.linkedin.com/in/leonel-sousa-9704a7243/)
+
